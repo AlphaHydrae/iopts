@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "iopts.gemspec",
     "lib/iopts.rb",
     "spec/helper.rb",
     "spec/iopts_spec.rb"
